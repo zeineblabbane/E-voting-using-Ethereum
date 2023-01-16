@@ -28,6 +28,7 @@ You can check in `http://localhost:5051` the state of your Ledger.
 
 ## Resources
 Step by step guide: [https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
+
 Sources code : [https://github.com/dappuniversity/election](https://github.com/dappuniversity/election)
 
 
